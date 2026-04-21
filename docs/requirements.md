@@ -25,7 +25,16 @@ User 3: This is a staff member that uses the app to find out which sports facili
 | **Non-functional** | A list of requirements that the use case must meet that are not functional.                               |
 
 
-| UC2 | USE-CASE NAME | | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------- | | **Description** | The goal for the staff member is to ensure that sports facilities are ready and available for users to access. | **Actors** | staff member at the facility **Assumptions** | uses the app to find out which sports facilities are in use or not. **Steps**: Find out which facilities are not available or are being used, make them available again if necessary, and let the public know when they are available. **Variations** | Any differences in the steps of a use case **Non-functional**: A list of requirements that the use case must meet that are not functional. **Issues**: A list of problems that still need to be fixed.
+| UC2                | USE-CASE NAME                                                                                                                                           |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Description**    | The goal for the staff member is to ensure that sports facilities are ready and available for users to access.                                          |
+| **Actors**         | staff member at the facility                                                                                                                            |
+| **Assumptions**    | uses the app to find out which sports facilities are in use or not.                                                                                     |
+| **Steps**          | Find out which facilities are not available or are being used, make them available again if necessary, and let the public know when they are available. |
+| **Variations**     | Any differences in the steps of a use case                                                                                                              |
+| **Non-functional** | A list of requirements that the use case must meet that are not functional.                                                                             |
+| **Issues**         | A list of problems that still need to be fixed.                                                                                                         |
+
 
 
 
