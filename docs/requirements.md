@@ -36,13 +36,6 @@ User 3: This is a staff member that uses the app to find out which sports facili
 | **Issues**         | A list of problems that still need to be fixed.                                                                                                         |
 
 
-
-
-
-
-| **Issues** | TODO: OPTIONAL - List of issues that remain to be resolved |
-
-
 TODO: Your Use-Case diagram should include all use-cases.
 
 ![Insert your Use-Case Diagram Here](images/use-case.png)
