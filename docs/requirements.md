@@ -42,14 +42,30 @@ TODO: Your Use-Case diagram should include all use-cases.
 
 ## Software Requirements Specification
 ### Functional requirements
-TODO: create a list of functional requirements. 
-    e.g. "The system shall ..."
-    Give each functional requirement a unique ID. e.g. FR1, FR2, ...
-    Indicate which UC the requirement comes from.
+FR1: The map should clearly show all of the sports facilities.
+
+FR2: The system should need to know where the user is.
+
+FR3: The system should show whether the sports facilities that the user is looking at are free.
+
+FR4: The system should show how much it costs to use each sports facility.
 
 
 ### Non-Functional Requirements
-TODO: Consider one or more [quality attributes](https://en.wikipedia.org/wiki/ISO/IEC_9126) to suggest a small number of non-functional requirements.
-Give each non-functional requirement a unique ID. e.g. NFR1, NFR2, ...
+NFR1: The app should respond quickly to user actions (performance efficiency).
 
-Indicate which UC the requirement comes from.
+NFR2: The app should clearly display all sports facilities with appropriately sized markers (usability).
+
+NFR3: The app should be usable on Chrome internet browsers (compatibility).
+
+NFR4: The app should provide a suitable default location if the user’s location is not available (reliability).
+
+NFR5: The app should be regularly updated to ensure all listed sports facilities are accurate and in working condition (functional suitability).
+
+NFR6: The app should handle user requests with minimal delay (performance efficiency).
+
+NFR7: The app should be accessible on mobile devices as well as other platforms (portability).
+
+NFR8: The app should support user safety by allowing incidents to be reported easily, including time and location details (security).
+
+NFR9: The app should provide frequent updates so users can view current facility availability when they open the app (maintainability).
