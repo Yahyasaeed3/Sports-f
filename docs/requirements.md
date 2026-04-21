@@ -3,16 +3,24 @@
 ## User Needs
 
 ### User stories
-TODO: Write brief user stories to explain how various actors would interact with the system to accomplish a goal.
-    Express these in the form from agile development:- As a (role) I want (goal) so that (benefit).
+As a user my job is to is to find the closest sports facility this is because it saves time and effort by avoiding travelling to a fully booked facility and having to look for another one.
 
+As the council its is my responsibility to monitor all sports facilities on the app to gather data. The benefit of this is that it shows whether facilities are being used effectively or if additional ones are needed.
+
+As a user my role is to also update the availability of sports facilities. The benefit of this is that it helps ensure the app remains accurate by showing which facilities are full and which are available.
 ### Actors
-TODO: List and describe the actors/users for this product.
+User 1: This is a person who needs to use a sports facility.
 
+User 2: This is someone that is a member of the Bristol City Council that needs to use the app to look at usage data.
+
+User 3: This is a staff member that uses the app to find out which sports facilities are in use or free and then updates the availability of those facilities.
 ### Use Cases
-TODO: Describe each use case (at least one per team member).
-    Give each use case a unique ID, e.g. UC1, UC2, ...
-    Summarise these using the use-case template below.
+| USE-CASE ID | USE-CASE NAME | | ------------------ | -------------------------------------------------------------------------------------------------------------------------------- | | **Description** | The user needs to find an available sports facility without having to go from place to place wasting time | **Actors** | people who use the sports facility | **Assumptions** | people will use the app to see what facilities are available | **Steps** | people will check the app to see which facilities are available and free to use | **Variations** | any changes in the steps of a use **Non-functional** | A list of requirements that the use case must meet that are not functional.
+
+| UC2 | USE-CASE NAME | | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------- | | **Description** | The goal for the staff member is to ensure that sports facilities are ready and available for users to access. | **Actors** | staff member at the facility **Assumptions** | uses the app to find out which sports facilities are in use or not. **Steps**: Find out which facilities are not available or are being used, make them available again if necessary, and let the public know when they are available. **Variations** | Any differences in the steps of a use case **Non-functional**: A list of requirements that the use case must meet that are not functional. **Issues**: A list of problems that still need to be fixed.
+
+
+
 
 | TODO: USE-CASE ID e.g. UC1, UC2, ... | TODO: USE-CASE NAME | 
 | -------------------------------------- | ------------------- |
