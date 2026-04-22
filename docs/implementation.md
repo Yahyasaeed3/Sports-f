@@ -18,4 +18,4 @@ TODO: Document each query to Bristol Open Data
 TODO: Repeat as necessary
 
 # User guide
-TODO: Explain how each use-case works by providing step-by-step screenshots for each use-case. This should be based on a tested scenario.
+Building our sports facilities app around microservices keeps data, maps, and user features operating independently. Speed defines the experience.Event driven logic responds instantly when users search or open the map. Load balancing maintains performance during heavy traffic, so the system never crashes. That is the reality. Analytics track how people interact with the platform to guide future updates. Adding notification services remains a simple way to keep everyone informed about schedule shifts. 
