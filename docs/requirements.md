@@ -36,7 +36,8 @@ User 3: This is a staff member that uses the app to find out which sports facili
 | **Issues**         | A list of problems that still need to be fixed.                                                                                                         |
 
 
-TODO: Your Use-Case diagram should include all use-cases.
+<img width="583" height="412" alt="image" src="https://github.com/user-attachments/assets/8af93263-07ab-48b8-8d83-4a71341f3928" />
+
 
 
 
