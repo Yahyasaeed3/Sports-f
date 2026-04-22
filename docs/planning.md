@@ -35,6 +35,8 @@ Payment and Booking Features: The software will offer a unified experience allow
 These functions will support each other to ensure the app performs effectively providing sports enthusiasts with real time information and helping them save time while finding and booking ideal sports facilities.
 
 ## Project Scope
-TODO: Scope of the System of Interest. Include a bullet list of things from your context diagram that are in scope.
+Visualizing the sports facilities system reveals the core components that drives this platform toward success. There are five primary elements that stand out which are the mobile app, Bristol Open Data, Open Government Licence, sports facilities data, and the location/map system. These pieces form a tight and functioning web. Building a reliable interface demands these specific inputs. Each component integrates seamlessly feeding data directly into the user experience So places to play can be found by the locals. . Relying on such robust architecture ensures that project information remains accurate, helpful, and perpetually relevant.
 
 ![Insert your Context Diagram Here](images/context.png)
+
+
