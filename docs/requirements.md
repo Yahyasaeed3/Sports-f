@@ -38,7 +38,7 @@ User 3: This is a staff member that uses the app to find out which sports facili
 
 TODO: Your Use-Case diagram should include all use-cases.
 
-![Insert your Use-Case Diagram Here](images/use-case.png)
+
 
 ## Software Requirements Specification
 ### Functional requirements
