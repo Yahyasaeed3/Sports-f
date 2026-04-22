@@ -7,4 +7,5 @@ Making an app to map local sports facilities sounds simple enough. We show and t
 3. [Design](docs/design.md)
 4. [Implementation](docs/implementation.md)
 5. [Testing](docs/testing.md)
+6. [Instruction](docs/Instructions for user)
 
