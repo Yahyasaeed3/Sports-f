@@ -9,13 +9,10 @@ Provide a table showing the number of JSLint warnings or reports for each module
 ## Software Architecture
 We found that managing sports facilities is a key part of the system. This would be handled through the facility management features which include information about availability, status, location, and the types of facilities offered. Users are also provided with details about the closest facilities along with useful information to help them check availability or make a booking.
 
-![Insert your component Diagram here](images/component.png)
+
+<img width="660" height="481" alt="image" src="https://github.com/user-attachments/assets/f92f5a0c-a903-4a19-96e0-fc9e8264ec8b" />
 
 ## Bristol Open Data API
-TODO: Document each query to Bristol Open Data
-
-![UML Class diagrams representing JSON query results](images/class1.png)
-TODO: Repeat as necessary
 
 # User guide
 Building our sports facilities app around microservices keeps data, maps, and user features operating independently. Speed defines the experience.Event driven logic responds instantly when users search or open the map. Load balancing maintains performance during heavy traffic, so the system never crashes. That is the reality. Analytics track how people interact with the platform to guide future updates. Adding notification services remains a simple way to keep everyone informed about schedule shifts. 
