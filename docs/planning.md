@@ -36,7 +36,7 @@ These functions will support each other to ensure the app performs effectively p
 
 ## Project Scope
 Visualizing the sports facilities system reveals the core components that drives this platform toward success. There are five primary elements that stand out which are the mobile app, Bristol Open Data, Open Government Licence, sports facilities data, and the location/map system. These pieces form a tight and functioning web. Building a reliable interface demands these specific inputs. Each component integrates seamlessly feeding data directly into the user experience So places to play can be found by the locals. . Relying on such robust architecture ensures that project information remains accurate, helpful, and perpetually relevant.
+<img width="1152" height="648" alt="image" src="https://github.com/user-attachments/assets/82a8362d-dc13-467b-92e3-51e11104d8e9" />
 
-![Insert your Context Diagram Here](images/context.png)
 
 
